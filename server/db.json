@@ -1,0 +1,19 @@
+{
+  "learnhttp": {
+    "content": "Olá mundo!"
+  },
+  "journals": [
+    {
+      "id": "5bae65d0-8884-11ed-95a7-4d43723ea414",
+      "content": "Hoje é quarta-feira!",
+      "created_at": "2022-12-21 20:55:55.753833",
+      "updated_at": "2022-12-21 20:55:55.753833"
+    },
+    {
+      "id": "63f848f0-8884-11ed-95a7-4d43723ea414",
+      "content": "Hoje é sexta-feira!",
+      "created_at": "2022-12-23 20:55:55.753833",
+      "updated_at": "2022-12-23 20:55:55.753833"
+    }
+  ]
+}
